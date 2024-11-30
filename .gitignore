@@ -1,2 +1,21 @@
+# Node.js dependencies
 node_modules/
 RockRiffsWebpage/node_modules/
+
+# Visual Studio specific files
+.vs/
+*.vcxproj*
+*.sln
+*.filters
+*.user
+
+# Compiled output and binaries
+x64/
+Debug/
+Release/
+
+# Temporary files
+*.obj
+*.exe
+*.pdb
+*.tmp
